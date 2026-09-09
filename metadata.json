@@ -1,0 +1,6 @@
+{
+  "name": "فوتبال‌واژه | FootballVazheh",
+  "description": "مستند جامع طراحی، پرامپت پیشرفته صنعتی و شبیه‌ساز تعاملی بازی کلمه‌سازی فوتبالی سبک آمیرزا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
